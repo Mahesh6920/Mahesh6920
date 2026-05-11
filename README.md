@@ -40,6 +40,8 @@ Backend Developer (Java) focused on building strong problem-solving skills and u
 
 - User Management System (Java + Collections)
 - Backend Practice Projects (OOP-based design)
+- Employee Management System (JSP + Servlets)
+- Employee REST API (Spring Boot)
 - More projects coming soon...
 
 ---
